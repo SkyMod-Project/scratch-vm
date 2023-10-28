@@ -29,7 +29,7 @@ class TurboWarpBlocks {
             color1: '#ff4c4c',
             color2: '#e64444',
             color3: '#c73a3a',
-            docsURI: 'https://docs.turbowarp.org/blocks',
+            docsURI: 'https://skymod-project.github.io/docs/blocks',
             menuIconURI: iconURI,
             blockIconURI: iconURI,
             blocks: [

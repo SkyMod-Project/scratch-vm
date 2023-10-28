@@ -16,6 +16,6 @@ If you only use the standard reporter, boolean, and command block types, everyth
 
 ## Compiler Overview
 
-For a high-level overview of how the compiler works, see https://docs.turbowarp.org/how
+For a high-level overview of how the compiler works, see https://skymod-project.github.io/docs/how
 
 For more technical information, read the code in src/compiler.
